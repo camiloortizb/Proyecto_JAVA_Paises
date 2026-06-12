@@ -6,7 +6,7 @@ public class Argentina extends Pais
 
     @Override  // implementa el método abstracto de la clase base
     public void mostrarAtractivo(){
-        System.out.println("Argentina tiene " + provincias + " provincias, nuestras favoritas son Chubut y Santa Cruz.");
+        System.out.println("|===Argentina tiene " + provincias + " provincias, nuestras favoritas son Chubut y Santa Cruz===|");
     }
 
     // setter y getter para provincias

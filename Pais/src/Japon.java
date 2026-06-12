@@ -8,7 +8,7 @@ public class Japon extends Pais
     @Override
     public void mostrarAtractivo() { 
         
-        System.out.println("Japón tiene " + templos + " templos antiguos, su capital es " + capital + ", ademas, es conocido por su mezcla de tradición y modernidad, con templos antiguos y tecnología avanzada.");
+        System.out.println("|===Japón tiene " + templos + " templos antiguos, su capital es " + capital + ", ademas, es conocido por su mezcla de tradición y modernidad, con templos antiguos y tecnología avanzada===|");
        
     }
 
